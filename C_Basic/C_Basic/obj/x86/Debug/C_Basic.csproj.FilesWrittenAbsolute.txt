@@ -1,2 +1,0 @@
-/Users/evgeny.khoroshilov/Projects/C_Basic/C_Basic/obj/x86/Debug/.NETFramework,Version=v4.7.AssemblyAttribute.cs
-/Users/evgeny.khoroshilov/Projects/C_Basic/C_Basic/obj/x86/Debug/C_Basic.exe

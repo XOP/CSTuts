@@ -1,0 +1,6 @@
+D:\Projects\CSTuts\CS_Basics\CS_Basics\bin\Debug\CS_Basics.exe.config
+D:\Projects\CSTuts\CS_Basics\CS_Basics\bin\Debug\CS_Basics.exe
+D:\Projects\CSTuts\CS_Basics\CS_Basics\bin\Debug\CS_Basics.pdb
+D:\Projects\CSTuts\CS_Basics\CS_Basics\obj\Debug\CS_Basics.csproj.CoreCompileInputs.cache
+D:\Projects\CSTuts\CS_Basics\CS_Basics\obj\Debug\CS_Basics.exe
+D:\Projects\CSTuts\CS_Basics\CS_Basics\obj\Debug\CS_Basics.pdb

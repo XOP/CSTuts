@@ -1,0 +1,4 @@
+D:\Projects\CSTuts\CS_Basics\CS_Basics\bin\x64\Run\CS_Basics.exe.config
+D:\Projects\CSTuts\CS_Basics\CS_Basics\bin\x64\Run\CS_Basics.exe
+D:\Projects\CSTuts\CS_Basics\CS_Basics\obj\x64\Run\CS_Basics.csproj.CoreCompileInputs.cache
+D:\Projects\CSTuts\CS_Basics\CS_Basics\obj\x64\Run\CS_Basics.exe
