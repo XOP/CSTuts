@@ -1,3 +1,5 @@
 # env
+.vs
 
-/.vs
+# extra
+.DS_Store
