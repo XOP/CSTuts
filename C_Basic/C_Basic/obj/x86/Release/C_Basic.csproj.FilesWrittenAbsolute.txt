@@ -1,0 +1,2 @@
+/Users/evgeny.khoroshilov/Projects/C_Basic/C_Basic/obj/x86/Release/.NETFramework,Version=v4.7.AssemblyAttribute.cs
+/Users/evgeny.khoroshilov/Projects/C_Basic/C_Basic/obj/x86/Release/C_Basic.exe

@@ -1,0 +1,73 @@
+﻿#region S1
+
+//byte number = 250;
+//int counter = 1;
+//float basePrice = 20.99f;
+//char vkUp = 'W';
+//string levelName = "Demo";
+//bool IS_DONE = false;
+
+//var number = 250;
+//var counter = 1;
+//var basePrice = 20.99f;
+//var vkUp = 'W';
+//var levelName = "Demo";
+//var IS_DONE = false;
+
+//Console.WriteLine(number);
+//Console.WriteLine(counter);
+//Console.WriteLine(basePrice);
+//Console.WriteLine(vkUp);
+//Console.WriteLine(levelName);
+//Console.WriteLine(IS_DONE);
+
+//Console.WriteLine("{0} {1}", byte.MinValue, byte.MaxValue);
+//Console.WriteLine("{0} {1}", byte.MinValue, byte.MaxValue);
+
+#endregion
+
+// ================================================================
+
+#region S2
+
+float somePrice = 21.99f;
+int fixedPrice = (int)somePrice;
+Console.WriteLine(fixedPrice);      // 21
+
+// casting
+int i = 1;
+byte b = (byte)i;
+
+try
+{
+    var userName = "Stewie";
+    int convertedName = Convert.ToInt32(userName);
+    Console.WriteLine(convertedName);   // error
+}
+catch (Exception)
+{
+    Console.WriteLine("ERR!");
+}
+
+var userInput = "12";
+float userInputF = Convert.ToInt32(userInput);
+Console.WriteLine(userInputF);
+
+#endregion
+
+// ================================================================
+
+#region S3
+
+int operatorA = 10;
+int operatorB = 3;
+
+float resultAB = operatorA / operatorB;
+float resultABF = (float)operatorA / (float)operatorB;
+
+Console.WriteLine(resultAB); // 3
+Console.WriteLine(resultABF); // 3.3333
+
+#endregion
+
+// ================================================================

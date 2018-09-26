@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{F95245D7-6760-42E6-8B5E-440035DD0590}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="C_Basic/Program.cs" Line="71" Column="43" />
+      <File FileName="C_Basic/PassGenerator.cs" Line="66" Column="32" />
+      <File FileName="C_Basic/Car.cs" Line="53" Column="61" />
+      <File FileName="C_Basic/Math/Calculator.cs" Line="12" Column="1" />
+      <File FileName="C_Basic/Arrays.cs" Line="22" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.C__Basic PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
