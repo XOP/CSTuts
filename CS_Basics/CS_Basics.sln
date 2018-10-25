@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_Basics", "CS_Basics\CS_Basics.csproj", "{CCBD89CB-8A45-4BB0-8956-C503A13926B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassGen", "PassGen\PassGen.csproj", "{0E1B85B8-6492-4D09-95F5-0E5A673671EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,6 +38,24 @@ Global
 		{CCBD89CB-8A45-4BB0-8956-C503A13926B7}.Run|x64.Build.0 = Run|x64
 		{CCBD89CB-8A45-4BB0-8956-C503A13926B7}.Run|x86.ActiveCfg = Run|x86
 		{CCBD89CB-8A45-4BB0-8956-C503A13926B7}.Run|x86.Build.0 = Run|x86
+		{0E1B85B8-6492-4D09-95F5-0E5A673671EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E1B85B8-6492-4D09-95F5-0E5A673671EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E1B85B8-6492-4D09-95F5-0E5A673671EE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0E1B85B8-6492-4D09-95F5-0E5A673671EE}.Debug|x64.Build.0 = Debug|Any CPU
+		{0E1B85B8-6492-4D09-95F5-0E5A673671EE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0E1B85B8-6492-4D09-95F5-0E5A673671EE}.Debug|x86.Build.0 = Debug|Any CPU
+		{0E1B85B8-6492-4D09-95F5-0E5A673671EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E1B85B8-6492-4D09-95F5-0E5A673671EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E1B85B8-6492-4D09-95F5-0E5A673671EE}.Release|x64.ActiveCfg = Release|Any CPU
+		{0E1B85B8-6492-4D09-95F5-0E5A673671EE}.Release|x64.Build.0 = Release|Any CPU
+		{0E1B85B8-6492-4D09-95F5-0E5A673671EE}.Release|x86.ActiveCfg = Release|Any CPU
+		{0E1B85B8-6492-4D09-95F5-0E5A673671EE}.Release|x86.Build.0 = Release|Any CPU
+		{0E1B85B8-6492-4D09-95F5-0E5A673671EE}.Run|Any CPU.ActiveCfg = Release|Any CPU
+		{0E1B85B8-6492-4D09-95F5-0E5A673671EE}.Run|Any CPU.Build.0 = Release|Any CPU
+		{0E1B85B8-6492-4D09-95F5-0E5A673671EE}.Run|x64.ActiveCfg = Release|Any CPU
+		{0E1B85B8-6492-4D09-95F5-0E5A673671EE}.Run|x64.Build.0 = Release|Any CPU
+		{0E1B85B8-6492-4D09-95F5-0E5A673671EE}.Run|x86.ActiveCfg = Release|Any CPU
+		{0E1B85B8-6492-4D09-95F5-0E5A673671EE}.Run|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
